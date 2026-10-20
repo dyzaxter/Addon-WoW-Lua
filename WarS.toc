@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: WarS
+## Author: Bullfang(FGE)
+## Version: 1.0
+## Notes: Agrega sonidos a los poderes de Guerrero que no tienen.
+
+Main.lua
